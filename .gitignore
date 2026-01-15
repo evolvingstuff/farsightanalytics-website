@@ -1,0 +1,18 @@
+.idea/
+# Symlinked agents config
+AGENTS.md
+# Auto-generated project summary (created by SUMMARIZE command)
+AI-SUMMARY.md
+# Auto-generated project summary in docs
+docs/AI-SUMMARY.md
+
+node_modules/
+
+# Local tooling (copied from claude-md)
+sanitycheck/
+sanitycheck/js/node_modules/
+sanitycheck/js/.npm-cache/
+
+__pycache__/
+*.pyc
+*.pyo
